@@ -1,9 +1,102 @@
 fileFormatVersion: 2
 guid: 09e5b829c5ae04b7d891f5993aaec220
-timeCreated: 1434159140
+timeCreated: 1434172958
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: Shot_2_0
+    21300002: Shot_2_1
+    21300004: Shot_2_2
+    21300006: Shot_2_3
+    21300008: Shot_2_4
+    21300010: Shot_2_5
+    21300012: Shot_2_6
+    21300014: Shot_2_7
+    21300016: Shot_2_8
+    21300018: Shot_2_9
+    21300020: Shot_2_10
+    21300022: Shot_2_11
+    21300024: Shot_2_12
+    21300026: Shot_2_13
+    21300028: Shot_2_14
+    21300030: Shot_2_15
+    21300032: Shot_2_16
+    21300034: Shot_2_17
+    21300036: Shot_2_18
+    21300038: Shot_2_19
+    21300040: Shot_2_20
+    21300042: Shot_2_21
+    21300044: Shot_2_22
+    21300046: Shot_2_23
+    21300048: Shot_2_24
+    21300050: Shot_2_25
+    21300052: Shot_2_26
+    21300054: Shot_2_27
+    21300056: Shot_2_28
+    21300058: Shot_2_29
+    21300060: Shot_2_30
+    21300062: Shot_2_31
+    21300064: Shot_2_32
+    21300066: Shot_2_33
+    21300068: Shot_2_34
+    21300070: Shot_2_35
+    21300072: Shot_2_36
+    21300074: Shot_2_37
+    21300076: Shot_2_38
+    21300078: Shot_2_39
+    21300080: Shot_2_40
+    21300082: Shot_2_41
+    21300084: Shot_2_42
+    21300086: Shot_2_43
+    21300088: Shot_2_44
+    21300090: Shot_2_45
+    21300092: Shot_2_46
+    21300094: Shot_2_47
+    21300096: Shot_2_48
+    21300098: Shot_2_49
+    21300100: Shot_2_50
+    21300102: Shot_2_51
+    21300104: Shot_2_52
+    21300106: Shot_2_53
+    21300108: Shot_2_54
+    21300110: Shot_2_55
+    21300112: Shot_2_56
+    21300114: Shot_2_57
+    21300116: Shot_2_58
+    21300118: Shot_2_59
+    21300120: Shot_2_60
+    21300122: Shot_2_61
+    21300124: Shot_2_62
+    21300126: Shot_2_63
+    21300128: Shot_2_64
+    21300130: Shot_2_65
+    21300132: Shot_2_66
+    21300134: Shot_2_67
+    21300136: Shot_2_68
+    21300138: Shot_2_69
+    21300140: Shot_2_70
+    21300142: Shot_2_71
+    21300144: Shot_2_72
+    21300146: Shot_2_73
+    21300148: Shot_2_74
+    21300150: Shot_2_75
+    21300152: Shot_2_76
+    21300154: Shot_2_77
+    21300156: Shot_2_78
+    21300158: Shot_2_79
+    21300160: Shot_2_80
+    21300162: Shot_2_81
+    21300164: Shot_2_82
+    21300166: Shot_2_83
+    21300168: Shot_2_84
+    21300170: Shot_2_85
+    21300172: Shot_2_86
+    21300174: Shot_2_87
+    21300176: Shot_2_88
+    21300178: Shot_2_89
+    21300180: Shot_2_90
+    21300182: Shot_2_91
+    21300184: Shot_2_92
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -30,25 +123,955 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 16
     mipBias: -1
-    wrapMode: -1
-  nPOTScale: 1
+    wrapMode: 1
+  nPOTScale: 0
   lightmap: 0
   rGBM: 0
   compressionQuality: 50
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: .5, y: .5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
-  alphaIsTransparency: 0
-  textureType: -1
+  alphaIsTransparency: 1
+  textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: Shot_2_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 238
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 238
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 238
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 238
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 238
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_5
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 238
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_6
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 238
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 238
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 195
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_9
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 195
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_10
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 132
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 217
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 217
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_13
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 217
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_14
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 217
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_15
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 217
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_16
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 217
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_17
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 217
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_18
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 217
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_19
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 197
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_20
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 197
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_21
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 197
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_22
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 197
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_23
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 197
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_24
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 197
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_25
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 197
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_26
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 197
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 195
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_28
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 164
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_29
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 132
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_30
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 132
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_31
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 143
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_32
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 143
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_33
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 143
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_34
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 143
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_35
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 143
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_36
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 143
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_37
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 143
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_38
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 143
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_39
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 122
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_40
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 122
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_41
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 122
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_42
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 122
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_43
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 122
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_44
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 122
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_45
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 122
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_46
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 122
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_47
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 99
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_48
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 99
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_49
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 99
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_50
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 99
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_51
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 99
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_52
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 99
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_53
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 99
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_54
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 99
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_55
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 95
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_56
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 95
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_57
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 95
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_58
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 95
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_59
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 95
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_60
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 95
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_61
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 95
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_62
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 95
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_63
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 84
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_64
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 86
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_65
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 84
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_66
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 84
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_67
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 86
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_68
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 84
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_69
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 60
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_70
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 60
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_71
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 60
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_72
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 60
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_73
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 60
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_74
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 60
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_75
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 60
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_76
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 60
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_77
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 42
+        width: 7
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_78
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 51
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_79
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 39
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_80
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 39
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_81
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 23
+        width: 15
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_82
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 37
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_83
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 36
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_84
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 39
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_85
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 39
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_86
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 39
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_87
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 39
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_88
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 39
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_89
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 39
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_90
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 39
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_91
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 39
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_2_92
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
   assetBundleName: 

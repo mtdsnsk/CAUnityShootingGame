@@ -7,7 +7,9 @@ public class BulletCreator : MonoBehaviour {
 	//
 	private float timer;
 	//
-	private float waitingTime = 0.4f;
+	public float waitingTime = 0.4f;
+	//
+	public float angle = 0;
 
 	// Update is called once per frame
 	void Update () {
@@ -16,8 +18,9 @@ public class BulletCreator : MonoBehaviour {
 		if(timer > waitingTime){
 			//Action
 			Vector3 bul_pos = new Vector3(transform.position.x, transform.position.y, transform.position.z);
-			GameObject bul = (GameObject)Instantiate (bullet, bul_pos, Quaternion.identity);
-			Destroy (bul,  2f);
+			GameObject bul = (GameObject)Instantiate (bullet, bul_pos, Quaternion.Euler(0, 0, angle));
+
+			Destroy (bul.gameObject,  2f);
 			timer = 0;
 		}
 	}

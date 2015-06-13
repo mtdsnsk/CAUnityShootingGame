@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 9a63fb69942ec4147b99eb1848ed6eef
-timeCreated: 1434159312
+timeCreated: 1434172487
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -8,6 +8,8 @@ TextureImporter:
     21300002: Shot_1
     21300004: Shot_2
     21300006: Shot_3
+    21300008: Shot_4
+    21300010: Shot_5
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -90,6 +92,26 @@ TextureImporter:
         y: 237
         width: 17
         height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_4
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 99
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shot_5
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 96
+        width: 53
+        height: 4
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}

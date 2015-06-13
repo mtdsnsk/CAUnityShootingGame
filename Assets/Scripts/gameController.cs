@@ -8,14 +8,9 @@ public class gameController : MonoBehaviour {
 	public float gameTimer;
 	public Text gameTimerText;
 	// スコア
-	private int gameScore;
+	public int gameScore;
 	public Text gameScoreText;
 
-	// Use this for initialization
-	void Start () {
-	
-	}
-	
 	// Update is called once per frame
 	void Update () {
 		gameTimer += Time.deltaTime;
