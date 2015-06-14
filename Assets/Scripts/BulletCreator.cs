@@ -3,25 +3,30 @@ using System.Collections;
 
 public class BulletCreator : MonoBehaviour {
 
+	public Bullet bul;
+
 	public GameObject bullet;
-	//
-	private float timer;
-	//
+	// 射出する感覚
 	public float waitingTime = 0.4f;
 	//
 	public float angle = 0;
 
+	//
+	private float timer;
+
 	// Update is called once per frame
 	void Update () {
-		
-		timer += Time.deltaTime;
-		if(timer > waitingTime){
-			//Action
-			Vector3 bul_pos = new Vector3(transform.position.x, transform.position.y, transform.position.z);
-			GameObject bul = (GameObject)Instantiate (bullet, bul_pos, Quaternion.Euler(0, 0, angle));
 
-			Destroy (bul.gameObject,  2f);
-			timer = 0;
+		if(!gameController.pause){
+
+			timer += Time.deltaTime;
+			if(timer > waitingTime){
+				// 弾を発射
+				Vector3 position = new Vector3(transform.position.x, transform.position.y, transform.position.z);
+				Instantiate (bullet, position, Quaternion.Euler(0, 0, angle));
+				// タイマを戻す
+				timer = 0;
+			}
 		}
 	}
 }

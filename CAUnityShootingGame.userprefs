@@ -1,14 +1,16 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/gameController.cs">
     <Files>
-      <File FileName="Assets/Scripts/EnemyBulletCreator.cs" Line="15" Column="18" />
-      <File FileName="Assets/Scripts/EnemyController.cs" Line="18" Column="18" />
-      <File FileName="Assets/Scripts/gameController.cs" Line="11" Column="8" />
-      <File FileName="Assets/Scripts/PlayerController.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/enemy.cs" Line="30" Column="7" />
-      <File FileName="Assets/Scripts/BulletCreator.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Bullet.cs" Line="1" Column="1" />
+      <File FileName="Assets/SetSceneData.cs" Line="17" Column="2" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="49" Column="5" />
+      <File FileName="Assets/Scripts/enemy.cs" Line="20" Column="38" />
+      <File FileName="Assets/Scripts/gameController.cs" Line="19" Column="17" />
+      <File FileName="Assets/Scripts/EnemyBulletCreator.cs" Line="7" Column="4" />
+      <File FileName="Assets/Scripts/EnemyController.cs" Line="31" Column="5" />
+      <File FileName="Assets/Scripts/BulletCreator.cs" Line="20" Column="3" />
+      <File FileName="Assets/Scripts/Bullet.cs" Line="25" Column="1" />
+      <File FileName="Assets/Scripts/enemyBullet.cs" Line="8" Column="13" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

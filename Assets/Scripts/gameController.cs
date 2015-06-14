@@ -8,19 +8,43 @@ public class gameController : MonoBehaviour {
 	public float gameTimer;
 	public Text gameTimerText;
 	// スコア
-	public int gameScore;
+	static public int gameScore;
 	public Text gameScoreText;
+
+	static public bool pause;
+	//spaceship
+
+	void Start () {
+		pause = false;
+		gameScore = 0;
+	}
 
 	// Update is called once per frame
 	void Update () {
-		gameTimer += Time.deltaTime;
-		gameTimerText.text = gameTimer.ToString();
 
-		gameScoreText.text = gameScore.ToString();
+		if(!gameController.pause){
+
+			gameTimer += Time.deltaTime;
+			gameTimerText.text = gameTimer.ToString();
+
+			gameScoreText.text = gameScore.ToString();
+
+		}
+
 	}
 
 	//
-	public void scoreCount (int n) {
-		gameScore += n;
+	void OnDestroy() {
+
+		int score = PlayerPrefs.GetInt("HighScore");
+
+		// ハイスコア記録
+		if(gameScore > score){
+			// スコア更新
+			PlayerPrefs.SetInt ("HighScore", gameScore);
+			PlayerPrefs.Save ();
+		}
+
 	}
+
 }
